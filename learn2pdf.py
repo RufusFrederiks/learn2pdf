@@ -61,7 +61,7 @@ REMOVE_NEXT_UNIT_JS = """
 }
 """
 
-RE_COURSE =re.compile(r"/training/courses/[^/]+/$")
+RE_COURSE = re.compile(r"/training/courses/[^/]+/$")
 RE_PATH = re.compile(r"/training/paths/[^/]+/$")
 RE_MODULE = re.compile(r"/training/modules/[^/]+/$")
 
