@@ -49,3 +49,7 @@ learn-pdf/
 ## Note
 
 The downloaded content belongs to Microsoft Learn. This tool is meant for personal study use.
+
+## Credits
+
+Built with help from [Claude](https://claude.ai) (Anthropic).
