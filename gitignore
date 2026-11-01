@@ -1,0 +1,11 @@
+# Downloaded output - don't upload this
+learn-pdf/
+*.pdf
+*.md
+!README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
